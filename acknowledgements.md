@@ -19,3 +19,6 @@
 <h1> Enhanced Skyblock Textures by VortFX </h1>
 * Mosquito Bow
 * Runaan's Bow
+
+<h1> Others </h1>
+* Technoblade's Crosshair
