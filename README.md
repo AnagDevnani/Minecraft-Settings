@@ -15,4 +15,4 @@ Made using Textures and GUI from :-
 * [Hypixel Skyblock Pack](https://hypixel.net/threads/ectoplasms-skyblock-resource-pack-completionists-update.2239953/) by ectoplasm89
 * [RNBW+](https://hypixel.net/threads/rnbw-resource-pack-v0-2.3470904/) by rainbowcraft2
 
-check [acknowledgements]() for a more detailed list of Textures used.
+check [acknowledgements](https://github.com/Pixcelz/Pixcelated-Textures/blob/main/acknowledgements.md) for a more detailed list of Textures used.
