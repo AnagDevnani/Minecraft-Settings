@@ -1,11 +1,11 @@
-# Pixcelated-Textures
-A 16x Resource Pack for Hypixel Skyblock
+# My Minecraft Settings
+All my Minecraft settings including:
+* Config Files
+* Texture packs
+* Mods
+* Shaders and more...
 
-# Prerequisites
-1. Minecraft: Java Edition version 1.8.9
-2. OptiFine HD U M5 for Minecraft 1.8.9
-
-# Recommendations
+# Mods
 It is recommended to use the resource pack with the following mods for the best experience:
 1. Apec ( [Curseforge](https://www.curseforge.com/minecraft/mc-mods/apec) | [Github](https://github.com/BananaFructa/Apec) | [Discord](https://discord.gg/YXrJzpY) )
 2. NotEnoughUpdates(NEU) ( [Github](https://github.com/Moulberry/NotEnoughUpdates) | [Discord](https://discord.gg/spr6ESn) )
@@ -13,7 +13,7 @@ It is recommended to use the resource pack with the following mods for the best 
 4. Scrollable Tooltips ( [Sk1er.club](https://sk1er.club/mods/text_overflow_scroll) | [Github](https://github.com/Sk1erLLC/ScrollableTooltips) )
 
 # Acknowledgements
-Made using Textures and GUI from :-
+Hypixel Skyblock Texture Pack made using Textures and HUD from :-
 
 * Furfsky Reborn ( [Furfsky.net](https://furfsky.net/) | [Discord](https://discord.com/invite/fsr) )
 * Hypixel Skyblock Pack by PacksHQ ( [PacksHQ](https://packshq.com/) )
